@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuhui Cai"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "no pain no gain"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Northwest Polytechnical University Xi'an"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yhcai@mail.nwpu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
